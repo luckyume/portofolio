@@ -1,5 +1,4 @@
 window.onload = () => {
-    // initialise animation for auto scroll
     const links = document.querySelectorAll("nav a:not(.inline-block)");
     links.forEach(() => addEventListener("click", scrollToLocation));
 };

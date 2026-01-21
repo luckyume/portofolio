@@ -1,12 +1,12 @@
 name = "Simple Dev Portfolio"
 license = "MIT"
 licenselink = "https://https://github.com/xinweilau/simple-dev-portfolio/blob/main/LICENSE"
-description = "A simple portfolio website made with TailwindCSS"
-homepage = "https://abdulrahmanagung.my.id/"
+description = "Simple portfolio website with TailwindCSS"
+homepage = "https://jonathanluckyyap.my.id/"
 tags = ["Hugo", "TailwindCSS", "developer", "theme"]
 features = []
 min_version = "0.41.0"
 
 [author]
-  name = "Abdul Rahman Agung"
-  homepage = "https://abdulrahmanagung.my.id/"
+  name = "Jonathan Lucky Yap"
+  homepage = "https://jonathanluckyyap.my.id/"

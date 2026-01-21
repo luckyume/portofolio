@@ -1,6 +1,6 @@
-firstname: Abdul Rahman
-lastname: Agung
-subheader: Java Developer
+firstname: Jonathan Lucku
+lastname: Yap
+subheader: Quality Assurance
 resume: <Link to your resume document>
 
 social:
@@ -38,12 +38,17 @@ about:
       svg: git.svg
 
 experience:
+  - company: PT. Megacom Alfapratama
+    title: Intern Social Media Specialist
+    description: 
+    startDate: 2019-01-01
+    endDate: 2019-03-30
+  
   - company: PT. Artivisi Intermedia
     title: Full-Stack
-    description: Optimised frontoffice web portal, resolve production bugs and introducing new feature using React, TypeScript, and Stylus. Additionally, developed experimental features for a React Native app which focuses on cross-platform performance with stakeholder feedbacks.
-    startDate: 2022-01-01
-    endDate: 2022-01-01
-
+    description: 
+    startDate: 
+    endDate: 
 projects:
   - title: Generali Microsite
     projectDate: 2022-01-01
